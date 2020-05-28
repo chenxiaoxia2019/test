@@ -10,10 +10,12 @@ No.,"GCW variables agreed in 2017(updated by ones approved by TT-WMD, bold)",Def
 7,presence of snow,A binary observation of the presence of snow cover at the measurement location.,26-Apr-18,/,/,/,/
 8,Snow on the ground (According to WMO code 0975: State of ground with snow or measurable ice cover.),/,/,R,M(S)-d,Snow on the ground (According to WMO code 0975: State of ground with snow or measurable ice cover.),/
 9,Solid precipitation (Requires both amount and type of precipitation to be measured),/,/,R,A(S)-h,Solid precipitation (Requires both amount and type of precipitation to be measured),/
-10,"Snow profiles (density, grain shape & size, hardness, liquid water content, salinity, temperature)",/,/,R,"M(S) –bw, M(IS) -y","Snow profiles (density, grain shape & size, hardness, liquid water content, salinity, temperature)",/
+10,"Snow profiles (density, grain shape & size, hardness, liquid water content, salinity, temperature)",/,/,R,"M(S) â€“bw, M(IS) -y","Snow profiles (density, grain shape & size, hardness, liquid water content, salinity, temperature)",/
 10+,"Snow profiles (density, grain shape & size, hardness, liquid water content, salinity, temperature)",/,/,D,"M(SI, LRI)-bw","Snow profiles (density, grain shape & size, hardness, liquid water content, salinity, temperature)",/
 11,Snow chemistry,/,/,D,"M(S, IS)-bw",Snow chemistry,/
 12,Snow surface temperature,/,/,D,"A(S, SI)-h, M(SI) -bw",Snow surface temperature,Snow temperature (top of snow): Snow temperature (top of snow)
 13,Snow temperature,/,/,D,A(S)-h,Snow temperature,Snow temperature 
 14,Drifting snow,/,/,D,"A(S)-h, M(S)-d",Drifting snow,/
 15,Specific surface area,/,/,D,"M(S)-bw,  M(IS)-y",Specific surface area,/
+16,test
+17,test hello world
